@@ -26,10 +26,10 @@ export default function About() {
             className="mb-5 leading-relaxed"
             style={{ color: 'rgba(232,228,216,0.75)', fontWeight: 300 }}
           >
-            I&apos;m a Data Scientist and AI Engineer currently pursuing an MSc in
+            I&apos;m a Computer Scientist, Data Scientist and AI Engineer currently pursuing an MSc in
             Artificial Intelligence Engineering at Okan University, Istanbul. My
             work lives at the intersection of rigorous machine learning and
-            real-world problem-solving — from medical image segmentation to
+            real-world problem-solving from medical image segmentation to
             fairness-aware AI systems.
           </p>
 
@@ -41,7 +41,7 @@ export default function About() {
             Administration in progress, I bring a rare combination of technical
             depth and strategic thinking. I&apos;ve applied this across roles in
             government data analysis, humanitarian operations with the Nigerian
-            Red Cross, and ICT management — giving me genuine appreciation for
+            Red Cross, and ICT management giving me genuine appreciation for
             data&apos;s power in high-stakes environments.
           </p>
 
