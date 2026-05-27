@@ -107,7 +107,7 @@ export default function Hero() {
               fontFamily: 'var(--font-body)',
             }}
           >
-            MSc AI Engineering student at Okan University, Istanbul building
+            MSc AI Engineering student at Okan University, Istanbul — building
             intelligent systems that bridge the gap between raw data and
             real-world impact. Specialising in machine learning, deep learning,
             and fair AI systems with a background spanning healthcare, humanitarian

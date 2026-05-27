@@ -32,7 +32,7 @@ export default function Contact() {
   }
 
   return (
-    <SectionWrapper id="contact" label="05 — Contact">
+    <SectionWrapper id="contact" label="06 — Contact">
       <div className="grid lg:grid-cols-2 gap-16 items-start">
         {/* Left */}
         <div>
